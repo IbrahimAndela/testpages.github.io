@@ -31,9 +31,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   | Milestone Number | Milestones | Tasks  | Collaborator(s) |
   |---------| ---------- |----------- | ------------|
   | 1 | Planning (2 days ==> Jan 15th - Jan 16th) | Create a scope document | 
+  
  
  How can a make lines of statements within a cell?
-   
+ 
+> Is this editor I will be using to document my work?
+
+> This is on my repo right, how will I share my work with my reviewers for feedback? How will the feedback appear on this platform?
+ 
+> How do I transfer my final work from my repo to the team repo where engineers can access it?
+ 
 
 
 ### Markdown

@@ -1,8 +1,40 @@
+# Welcome to GitHub Pages
 ## Welcome to GitHub Pages
+### Welcome to GitHub pages
+
+I don't understand why I'm having this green indentation line is here since it is not part of the headers.
+
+This is my first interaction with github pages and I'm happy to start documenting my project here.
 
 You can use the [editor on GitHub](https://github.com/IbrahimAndela/testpages.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+# Departmental Head
+ - Melanie
+ 1. Melanie
+ ## Team's Heads
+ 
+ 1. Gibbs
+ 2. Oli
+ ---
+    - Chrispine
+    - Sharon
+    - Ibrahim
+        ==> Started working on Golang level-up program. Here is the [roadmap](https://docs.google.com/spreadsheets/d/1GvKXUtXmVzdD7-aM5eKtRL8iMGF41mdzWHJHxIrhLlA/edit#gid=463201495) for the project.
+   I don't understand why hyperlink wasn't created for term 'roadmap'.
+   
+   
+   
+  > My questions are hereby documented in tabular form
+  
+  | Milestone Number | Milestones | Tasks  | Collaborator(s) |
+  |---------| ---------- |----------- | ------------|
+  | 1 | Planning (2 days ==> Jan 15th - Jan 16th) | Create a scope document | 
+ 
+ How can a make lines of statements within a cell?
+   
+
 
 ### Markdown
 
